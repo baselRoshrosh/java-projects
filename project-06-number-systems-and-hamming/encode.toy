@@ -1,0 +1,27 @@
+program encode
+
+10: 81FF   
+11: 82FF
+12: 83FF
+13: 84FF
+
+function Unnamed
+
+14: 4512
+15: 4654 
+16: 96FF
+
+function Unnamed
+
+17: 4713
+18: 4874
+19: 98FF    
+
+function Unnamed
+
+20: 4923
+21: 4A94
+22: 9AFF
+
+
+23: 0000
